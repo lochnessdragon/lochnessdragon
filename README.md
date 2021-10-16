@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on emscripten support for Hazel.
+- 🔭 I’m currently working on a videogame.
+- 🌱 I’m currently learning webapp development.
 
 [![Lochnessdragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lochnessdragon&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
