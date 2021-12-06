@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a videogame.
-- 🌱 I’m currently learning webapp development.
+- 🤔 I'm working on a gui library.
+- 🎄 I'm also Advent of Code(ing).
 
 [![Lochnessdragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lochnessdragon&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
