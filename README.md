@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on a videogame.
 - 🤔 I'm also working on a gui library.
 
+[(pfp from @matsui9988 on Twitter)](https://twitter.com/matsui9988/status/1502622608097181697/photo/1)
+
 [![Lochnessdragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lochnessdragon&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lochnessdragon&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
