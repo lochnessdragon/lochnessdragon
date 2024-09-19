@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a videogame.
-- 🤔 I'm also working on a gui library.
+- 🎲 I'm currently working on Quantum Research.
+- 🔭 In my freetime, I'm working on a video game.
 
 [(pfp from @matsui9988 on Twitter)](https://twitter.com/matsui9988/status/1502622608097181697/photo/1)
 
